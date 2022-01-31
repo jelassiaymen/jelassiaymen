@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jelassiaymen
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Laravel,Vue JS
-- 💞️ I’m looking to collaborate on various projects,specially open source
+- 💞️ I’m looking to collaborate on various projects,especially open source
 - 📫 How to reach me linkedin.com/aymen-jelassi
 
 <!---
